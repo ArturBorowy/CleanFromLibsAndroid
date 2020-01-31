@@ -1,4 +1,4 @@
-package com.example.cleanfromlibsandroid
+package com.cleanfromlibs.android
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

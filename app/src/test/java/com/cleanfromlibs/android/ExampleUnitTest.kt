@@ -1,4 +1,4 @@
-package com.example.cleanfromlibsandroid
+package com.cleanfromlibs.android
 
 import org.junit.Test
 

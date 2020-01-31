@@ -1,4 +1,4 @@
-package com.example.cleanfromlibsandroid
+package com.cleanfromlibs.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
